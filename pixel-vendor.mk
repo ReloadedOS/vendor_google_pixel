@@ -104,12 +104,10 @@ PRODUCT_PACKAGES += \
     GoogleExtServices \
     MarkupGoogle \
     PixelThemesStub \
-    PixelWallpapers2020 \
     SoundPickerPrebuilt \
     DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel2020 \
     FilesPrebuilt \
-    PixelLiveWallpaperPrebuilt \
     RecorderPrebuilt \
     SecurityHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
