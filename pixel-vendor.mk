@@ -104,7 +104,7 @@ PRODUCT_PACKAGES += \
     GoogleExtServices \
     MarkupGoogle \
     PixelThemesStub \
-    PixelWallpapers2021 \
+    PixelWallpapers2020 \
     SoundPickerPrebuilt \
     DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel2020 \
