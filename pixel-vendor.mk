@@ -112,6 +112,4 @@ PRODUCT_PACKAGES += \
     SecurityHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     Flipendo \
-    NexusLauncherRelease \
-    TurboAdapter \
-    WallpaperPickerGoogleRelease
+    TurboAdapter

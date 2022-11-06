@@ -150,36 +150,10 @@ android_app_import {
 }
 
 android_app_import {
-	name: "NexusLauncherRelease",
-	owner: "google",
-	apk: "proprietary/system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk",
-	overrides: ["Launcher3", "Launcher3QuickStep", "SearchLauncher", "SearchLauncherQuickStep"],
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	system_ext_specific: true,
-}
-
-android_app_import {
 	name: "TurboAdapter",
 	owner: "google",
 	apk: "proprietary/system_ext/priv-app/TurboAdapter/TurboAdapter.apk",
 	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	system_ext_specific: true,
-}
-
-android_app_import {
-	name: "WallpaperPickerGoogleRelease",
-	owner: "google",
-	apk: "proprietary/system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk",
-	overrides: ["WallpaperCropper", "WallpaperPicker", "WallpaperPicker2", "ThemePicker"],
-	presigned: true,
 	dex_preopt: {
 		enabled: false,
 	},

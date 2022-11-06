@@ -20,8 +20,7 @@ PRODUCT_PACKAGES += \
     PixelDocumentsUIOverlay \
     PixelFrameworksOverlay \
     PixelSettingsOverlay \
-    PixelSystemUIOverlay \
-    ThemedIconsOverlay
+    PixelSystemUIOverlay
 
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/google/pixel/overlay/static
 PRODUCT_PACKAGE_OVERLAYS += vendor/google/pixel/overlay/static
