@@ -90,7 +90,7 @@ product/media/audio/ui/VideoRecord.ogg
 product/media/audio/ui/VideoStop.ogg
 product/media/audio/ui/WirelessChargingStarted.ogg
 -product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk;PRESIGNED
--product/priv-app/DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk;PRESIGNED;OVERRIDES=AndroidSystemIntelligence_Features
+-product/priv-app/DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk;PRESIGNED;OVERRIDES=AndroidSystemIntelligence_Features,sysconfig_asi_features
 -product/priv-app/FilesPrebuilt/FilesPrebuilt.apk;PRESIGNED
 -product/priv-app/RecorderPrebuilt/RecorderPrebuilt.apk;OVERRIDES=SoundRecorder,QtiSoundRecorder;PRESIGNED
 -product/priv-app/SecurityHubPrebuilt/SecurityHubPrebuilt.apk;PRESIGNED
