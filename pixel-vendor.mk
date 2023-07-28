@@ -102,7 +102,6 @@ PRODUCT_PACKAGES += \
     DocumentsUIGoogle \
     GoogleExtServices \
     MarkupGoogle \
-    PixelThemesStub \
     SoundPickerPrebuilt \
     DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel2020 \
