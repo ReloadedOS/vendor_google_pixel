@@ -110,4 +110,11 @@ PRODUCT_PACKAGES += \
     SecurityHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     Flipendo \
+    SystemUIClocks-BigNum \
+    SystemUIClocks-Calligraphy \
+    SystemUIClocks-Flex \
+    SystemUIClocks-Growth \
+    SystemUIClocks-Inflate \
+    SystemUIClocks-NumOverlap \
+    SystemUIClocks-Weather \
     TurboAdapter
